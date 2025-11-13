@@ -3,6 +3,14 @@
 
 <h3>&#127760; Acesse o site:  https://barbosathamires.github.io/Projeto_ONG_Entrega-III</h3>
 
+<h2>🧰 Tecnologias Utilizadas</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JAVASCRIPT(utilizado para máscaras e validações de formulário)</li>
+ <li>Estrutura de pastas organizada com imagens locais</li>
+</ul>
+
 <h1>&#128193;Estruturas de Pastas</h1>
 EXP. PRATICA 3/
 <p>&#128194; index.html</p>
