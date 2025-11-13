@@ -5,15 +5,18 @@
 
 <h1>&#128193;Estruturas de Pastas</h1>
 EXP. PRATICA 3/
-├── index.html
-│       ├── projetos.html
-│       ├── cadastro.html
-│   ├── css/
-│   │   └── style.css
-│   ├── imagens/
-│   │   ├── Ação-ambiental.jpg
-│   │   ├── Crianças-estudando.jpg
-│   │   ├── Voluntarios-trabalhando-juntos.jpg
-│   └── js/
-│       ├── script.js
+<p>&#128194; index.html</p>
+<p>   └──     projetos.html<br>
+      └── 	  cadastro.html<br></p>
+      
+<p>&#128194; css</p>
+<p>     └── style.css</p>
+     
+<p>&#128194;imagens</p>
+ <p>└──  Ação-ambiental.jpg<br>
+ └──  Crianças-estudando.jpg<br>
+ └──  Voluntarios-trabalhando-juntos.jpg<br> </p>
+ 
+<p>&#128194; js</p>
+<p> └──  script.js</p>
   
